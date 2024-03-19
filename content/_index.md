@@ -70,12 +70,13 @@ sections:
           date_start: '2021-08-05'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Working as a GTA during PhD studies, towards acquiring Fellowship of the Higher Education Academy (FHEA) Modules include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Visitng Researcher
+              * First year MATLAB teaching and help with lab sessions
+              * Embedded system programming and software design
+              * Optimal control methods for aerospace applications
+              * Group project work on reinforcement learning for legged robots and final year aerospace engineers
+        - title: Visiting Researcher
           company: Robotics Systems Lab (RSL), ETH Zurich 
           company_url: ''
           # company_logo: ''
@@ -94,8 +95,8 @@ sections:
               Responsibilities included:
 
               * Developing autonomous manipulation methods for semiconductor manufacturing
-              * Using machine learning for 
-              * Deploying
+              * Using machine learning for prediction of parts failure during assembly
+              * Deploying a variety of robotic platforms including mobile robots, manipulators and CNC machines
         - title: Systems Engineer
           company: CAV Ice Protection Systems Inc. 
           company_url: ''
