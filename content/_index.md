@@ -251,7 +251,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        If you want to collaborate or have questions about my research, please feel free to reach out.
+        If you want to collaborate or have questions about my research, please feel free to reach out. You can send me an email or reach out to me on Twitter/X.
       # Contact (add or remove contact options as necessary)
       email: ecanzini1@sheffield.ac.uk
       address:
