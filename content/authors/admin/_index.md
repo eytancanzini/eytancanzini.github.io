@@ -116,5 +116,11 @@ social:
 highlight_name: true
 ---
 
-Eytan Canzini is a PhD candidate in Control at the University of Sheffield and a Research Scientist at Airbus Robotics. He obtained a Masters of Engineering (1st Honours, 4.0 GPA) in Aerospace Engineering with a Year in Industry, where he worked as an Automation Engineer and Robotics deployment specialist. His current research is focused around using learning-based methods for planning and control, with applications in manufacturing systems for aerospace. He is interested in applications involving control theory, game theory and reinforcement learning to build autonomous agents that can make deicsions in uncertain environment. He is part of the [Intelligent Systems, Decisions and Control Group (ISDCG)](https://www.sheffield.ac.uk/acse/research/groups/isdc-group) and the [Robotics And Autonomous Manufacturing Systems Lab (RAMS Lab)]
+Eytan Canzini is a PhD candidate in Control at the University of Sheffield and a Research Scientist at Airbus Robotics. He obtained a Masters of Engineering (1st Honours Class, 4.0 GPA) in Aerospace Engineering with a Year in Industry, where he worked as an Automation Engineer and Robotics deployment specialist. 
+{style="text-align: justify;"}
+
+His current research is focused around using learning-based methods for planning and control, with applications in manufacturing systems for aerospace. He is interested in applications involving control theory, game theory and reinforcement learning to build autonomous agents that can make decisions in uncertain environments. 
+{style="text-align: justify;"}
+
+He is part of the [Intelligent Systems, Decisions and Control Group (ISDCG)](https://www.sheffield.ac.uk/acse/research/groups/isdc-group) and the [Robotics And Autonomous Manufacturing Systems Lab (RAMS Lab)](https://github.com/rams-lab-sheffield).
 {style="text-align: justify;"}

@@ -42,14 +42,14 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+  # - block: skills
+  #   content:
+  #     title: Skills
+  #     text: ''
+  #     # Choose a user to display skills from (a folder name within `content/authors/`)
+  #     username: admin
+  #   design:
+  #     columns: '1'
   - block: experience
     content:
       title: Experience
@@ -62,12 +62,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Graduate Teaching Assistant
+          company: University of Sheffield
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: uni-logo
+          location: Sheffield, UK
+          date_start: '2021-08-05'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -75,14 +75,35 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Visitng Researcher
+          company: Robotics Systems Lab (RSL), ETH Zurich 
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: rsl
+          location: Zurich, Switzerland
+          date_start: '2022-07-01'
+          date_end: '2022-07-30'
+          description: 'Joined RSL as a Visiting Researcher and took part in the Robotics Summer School'
+        - title: Robotics & Automation Engineer
+          company: ASM Assembly Systems Ltd. 
+          company_url: ''
+          company_logo: asm
+          location: Weymouth, UK
+          date_start: '2019-07-01'
+          date_end: '2021-07-31'
+          description: |2-
+              Responsibilities included:
+
+              * Developing autonomous manipulation methods for semiconductor manufacturing
+              * Using machine learning for 
+              * Deploying
+        - title: Systems Engineer
+          company: CAV Ice Protection Systems Inc. 
+          company_url: ''
+          # company_logo: org-x
+          location: Durham, UK
+          date_start: '2017-06-25'
+          date_end: '2017-09-20'
+          description: Worked on developing autonomous test systems for aerospace systems
     design:
       columns: '2'
   - block: accomplishments
