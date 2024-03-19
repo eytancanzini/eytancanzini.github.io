@@ -1,13 +1,12 @@
 ---
 # Display name
-title: 吳健雄
+title: Eytan Canzini
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
+name_pronunciation: 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Eytan
+last_name: Canzini
 
 # Status emoji
 status:
@@ -17,12 +16,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Control, Research Scientist in Robotics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Sheffield
+    url: https://www.sheffield.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -96,7 +95,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/eytancanzini
     label: Follow me on Twitter
     display:
       header: true
@@ -105,7 +104,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/eytancanzini
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -119,6 +118,8 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
+Eytan Canzini is a PhD candidate in Control at the University of Sheffield and a Research Scientist at Airbus Robotics. He obtained a Masters of Engineering (1st Honours, 4.0 GPA) in Aerospace Engineering with a Year in Industry, where he worked as an Automation Engineer and Robotics deployment specialist. His current research is focused around using learning-based methods for planning and control, with applications in manufacturing systems for aerospace. 
 
 Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
