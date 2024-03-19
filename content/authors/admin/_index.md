@@ -36,7 +36,7 @@ interests:
 education:
   courses:
     - course: PhD in Automatic Control
-      institution: Intelligent Systems, Decision & Control Group, University of Sheffield
+      institution: Department of Automatic Control & Systems Engineering, University of Sheffield
       year: 2021-Present
     - course: MEng Aerospace Engineering w/ Year In Industry
       institution: Department of Aerospace Engineering, University of Sheffield
@@ -116,7 +116,7 @@ social:
 highlight_name: true
 ---
 
-Eytan Canzini is a PhD candidate in Control at the University of Sheffield and a Research Scientist at Airbus Robotics. He obtained a Masters of Engineering (1st Honours Class, 4.0 GPA) in Aerospace Engineering with a Year in Industry, where he worked as an Automation Engineer and Robotics deployment specialist. 
+Eytan Canzini is a PhD candidate in Control at the University of Sheffield and a Research Scientist at Airbus Robotics. He obtained a Masters of Engineering (1st Class Honours, 4.0 GPA) in Aerospace Engineering with a Year in Industry, where he worked as an Automation Engineer and Robotics deployment specialist. 
 {style="text-align: justify;"}
 
 His current research is focused around using learning-based methods for planning and control, with applications in manufacturing systems for aerospace. He is interested in applications involving control theory, game theory and reinforcement learning to build autonomous agents that can make decisions in uncertain environments. 
