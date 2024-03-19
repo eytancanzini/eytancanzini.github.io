@@ -255,16 +255,16 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: ecanzini1@sheffield.ac.uk
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: Amy Johnson Building, Portobello Street
+        city: Sheffield
+        region: South Yorkshire
+        postcode: 'S1 4WD'
+        country: United Kingdom
+        country_code: UK
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '53.381576'
+        longitude: '-1.4780507'  
       contact_links:
         - icon: twitter
           icon_pack: fab
