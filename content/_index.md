@@ -65,7 +65,7 @@ sections:
         - title: Graduate Teaching Assistant
           company: University of Sheffield
           company_url: ''
-          company_logo: uni-logo
+          company_logo: uni-logo.jpg
           location: Sheffield, UK
           date_start: '2021-08-05'
           date_end: ''
@@ -78,7 +78,7 @@ sections:
         - title: Visitng Researcher
           company: Robotics Systems Lab (RSL), ETH Zurich 
           company_url: ''
-          company_logo: rsl
+          company_logo: rsl.jpg
           location: Zurich, Switzerland
           date_start: '2022-07-01'
           date_end: '2022-07-30'
@@ -86,7 +86,7 @@ sections:
         - title: Robotics & Automation Engineer
           company: ASM Assembly Systems Ltd. 
           company_url: ''
-          company_logo: asm
+          company_logo: asm.jpg
           location: Weymouth, UK
           date_start: '2019-07-01'
           date_end: '2021-07-31'
