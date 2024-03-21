@@ -128,6 +128,14 @@ sections:
           organization_url: https://www.ieee.org
           title: Member of IEEE (MIEEE)
           url: ''
+        - date_end: ''
+          date_start: '2024-02-15'
+          description: 'Joined as a Member of the Royal Aeronautical Society'
+          icon: raes
+          organization: Royal Aeronautical Society (RAeS)
+          organization_url: https://www.aerosociety.com/
+          title: Member of RAeS (MRAeS)
+          url: ''
         # - certificate_url: https://www.edx.org
         #   date_end: ''
         #   date_start: '2021-01-01'
