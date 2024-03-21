@@ -122,5 +122,5 @@ I am a PhD candidate in Control at the University of Sheffield and a Research Sc
 My current research is focused around using learning-based methods for planning and control, with applications in manufacturing systems for aerospace. I am interested in applications involving control theory, game theory and reinforcement learning to build autonomous agents that can make decisions in uncertain environments. 
 {style="text-align: justify;"}
 
-I am part of the [Intelligent Systems, Decisions and Control Group (ISDCG)](https://www.sheffield.ac.uk/acse/research/groups/isdc-group) and the [Robotics And Autonomous Manufacturing Systems Lab (RAMS Lab)](https://github.com/rams-lab-sheffield).
+I am part of the [Intelligent Systems, Decisions and Control Group (ISDCG)](https://www.sheffield.ac.uk/acse/research/groups/isdc-group) and I am one of the co-leads of the [Robotics And Autonomous Manufacturing Systems Lab (RAMS Lab)](https://github.com/rams-lab-sheffield) where my research is focused on robust control for manipulation.
 {style="text-align: justify;"}
