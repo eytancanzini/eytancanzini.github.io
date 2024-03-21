@@ -24,7 +24,7 @@ organizations:
     url: https://www.sheffield.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include space systems, machine learning and multi-agent control
+bio: Space Systems, Machine Learning, Control & Game Theory
 # Interests to show in About widget
 interests:
   - Space Systems
