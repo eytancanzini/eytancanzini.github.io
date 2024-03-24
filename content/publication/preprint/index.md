@@ -36,12 +36,12 @@ featured: true
 #   url: http://example.org
 url_pdf: https://doi.org/10.36227/techrxiv.24171534.v2
 url_code: 'https://github.com/ManufacturingInformatics/marl_fixture_planner'
-url_dataset: '#'
-url_poster: '#'
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
