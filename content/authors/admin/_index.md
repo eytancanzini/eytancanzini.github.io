@@ -116,7 +116,7 @@ social:
 highlight_name: true
 ---
 
-I am a PhD candidate in Control at the University of Sheffield and a Research Scientist at Airbus Robotics. I obtained a Masters of Engineering (1st Class Honours, 4.0GPA) in Aerospace Engineering with a Year in Industry, where I worked as an Automation Engineer and Robotics deployment specialist. 
+I am a PhD candidate in Control at the University of Sheffield and a Research Scientist at Airbus Robotics. I obtained a Masters of Engineering (1st Class Honours, 4.0 GPA) in Aerospace Engineering with a Year in Industry, where I worked as an Automation Engineer and Robotics deployment specialist. 
 {style="text-align: justify;"}
 
 My current research is focused around using learning-based methods for planning and control, with applications in manufacturing systems for aerospace. I am interested in applications involving control theory, game theory and reinforcement learning to build autonomous agents that can make decisions in uncertain environments. 
