@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'A novel sensing template using data fusion for large volume assembly'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -16,7 +16,7 @@ author_notes:
   - 'Equal contribution'
 
 date: 2022-05-05T00:00:00Z'
-doi: ''
+doi: '10.1016/j.ifacol.2022.04.207'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://eprints.whiterose.ac.uk/202710/1/Sensing%20Template%20Paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -78,12 +78,12 @@ projects: []
 slides: []
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+{{% /callout %}} -->
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+<!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
