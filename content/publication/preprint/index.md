@@ -1,9 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "Decision Making For Multi-Robot Fixture Planning Using Multi-Agent Reinforcement Learning"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+- Marc Auledas-Noguera
+- Simon Pope
+- Ashutosh Tiwari
+date: "2024-02-11T00:00:00Z"
+doi: "10.36227/techrxiv.24171534.v2"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -17,20 +20,22 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Within the realm of flexible manufacturing, fixture layout planning allows manufacturers to rapidly deploy optimal fixturing plans that can reduce surface deformation that leads to crack propagation in components during manufacturing tasks. The role of fixture layout planning has evolved from being performed by experienced engineers to computational methods due to the number of possible configurations for components. Current optimisation methods commonly fall into sub-optimal positions due to the existence of local optima, with data-driven machine learning techniques relying on costly to collect labelled training data. In this paper, we present a framework for multi-agent reinforcement learning with team decision theory to find optimal fixturing plans for manufacturing tasks. We demonstrate our approach on two representative aerospace components with complex geometries across a set of drilling tasks, illustrating the capabilities of our method; we will compare this against state of the art methods to showcase our method's improvement at finding optimal fixturing plans with 3 times the improvement in deformation control within tolerance bounds.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: To create optimal fixturing plans for autonomous manufacturing, we combine a team theoretic approach to understanding optima with reinforcement learning to find fixturing plans. 
 
 tags:
-- Source Themes
-featured: false
+- Multi-Agent Systems
+- Reinforcement Learning
 
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+featured: true
+
+# links:
+# - name: Custom Link
+#   url: http://example.org
+url_pdf: https://doi.org/10.36227/techrxiv.24171534.v2
+url_code: 'https://github.com/ManufacturingInformatics/marl_fixture_planner'
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
@@ -41,7 +46,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Overview of the multi-agent approach for determining optimal fixture plans using reinforcement learning.'
   focal_point: ""
   preview_only: false
 
@@ -51,18 +56,18 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- team-decision-making
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
