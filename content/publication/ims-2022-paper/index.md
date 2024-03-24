@@ -15,7 +15,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: 2022-05-05T00:00:00Z'
+date: '2022-05-05T00:00:00Z'
 doi: '10.1016/j.ifacol.2022.04.207'
 
 # Schedule page publish date (NOT publication's date).

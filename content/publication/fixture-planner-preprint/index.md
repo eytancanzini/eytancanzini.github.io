@@ -8,6 +8,10 @@ authors:
 date: "2024-02-11T00:00:00Z"
 doi: "10.36227/techrxiv.24171534.v2"
 
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
 
