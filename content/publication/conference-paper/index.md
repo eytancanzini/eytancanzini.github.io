@@ -6,14 +6,16 @@ title: 'An example conference paper'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Marc Auledas-Noguera
+  - Dominique Chasteau
+  - Ashutosh Tiwari
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: 2022-05-05T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -25,15 +27,17 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *14th IFAC Workshop on Intelligent Manufacturing Systems 2022*
+publication_short: In *IMS 2022*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The size of large components within manufacturing processes leads to complications with automating the processes required to assemble them into larger structures. In recent years, development of multi-sensor networks and breakthroughs in measuring algorithms have allowed for the creation of novel methods of mating large components. One major challenge with deploying sensor networks into production environments is the ability to attach sensors to large volume components. This can be remedied with the use of a sensing template that acts as a pseudo-virtual jig for the assembly process where sensors are embedded onto the template, thus not interfering with the physical assembly. The key step for this sensing template is creating an algorithmic process for accurate component localisation. This paper will introduce an innovative method of using data fusion attached to a sensing template embedded in an aerospace assembly process. A sensing algorithm utilising a Kalman filter allows for accurate component mating with a low error offset and high repeatability. The results of the sensing template show how it is capable of reducing the error offset and improves the repeatability of measurements.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Using a multi-sensor Kalman filter, we can construt a sensing template to allow for accurate positioning of large aerospace components.
 
-tags: []
+tags:
+ - Sensing
+ - Assembly
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,18 +48,18 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: 'https://www.sciencedirect.com/science/article/pii/S2405896322002087'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
@@ -64,15 +68,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: []
 ---
 
 {{% callout note %}}
