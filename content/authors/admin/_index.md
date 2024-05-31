@@ -29,13 +29,14 @@ bio: Space Systems, Machine Learning, Control & Game Theory
 interests:
   - Space Systems
   - Machine Learning
-  - Control Theoretic Approaches
+  - Control Theory 
+  - Game Theory
   - Multi-Agent Systems
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Automatic Control
+    - course: PhD in Systems & Control Engineering
       institution: Department of Automatic Control & Systems Engineering, University of Sheffield
       year: 2021-Present
     - course: MEng Aerospace Engineering w/ Year In Industry
@@ -116,11 +117,14 @@ social:
 highlight_name: true
 ---
 
-I am a PhD candidate in Control at the University of Sheffield and a Research Scientist at Airbus Robotics. I obtained a Masters of Engineering (1st Class Honours, 4.0 GPA) in Aerospace Engineering with a Year in Industry, where I worked as an Automation Engineer and Robotics deployment specialist. 
+I am a PhD candidate in Systems & Control Engineering at the University of Sheffield and a Research Scientist at Airbus Robotics. I obtained a Masters of Engineering (1st Class Honours, 4.0 GPA) in Aerospace Engineering with a Year in Industry, where I worked as an Automation Engineer and Robotics deployment specialist.
 {style="text-align: justify;"}
 
-My current research is focused around using learning-based methods for planning and control, with applications in manufacturing systems for aerospace. I am interested in applications involving control theory, game theory and reinforcement learning to build autonomous agents that can make decisions in uncertain environments. 
+My current research is focused around using learning-based methods for planning and control, with applications in manufacturing systems for aerospace. I am interested in applications involving control theory, game theory and reinforcement learning to build autonomous agents that can make decisions in uncertain environments.
 {style="text-align: justify;"}
 
 I am part of the [Intelligent Systems, Decisions and Control Group (ISDCG)](https://www.sheffield.ac.uk/acse/research/groups/isdc-group) and I am one of the co-leads of the [Robotics And Autonomous Manufacturing Systems Lab (RAMS Lab)](https://github.com/rams-lab-sheffield) where my research is focused on robust control for manipulation.
+{style="text-align: justify;"}
+
+In my free time, my hobbies surround the outdoors (fishing, hiking, watersports etc.) and tinkering with electronics. I'll periodically upload photos and videos that I take on my various adventures, along with my ongoing projects.
 {style="text-align: justify;"}
