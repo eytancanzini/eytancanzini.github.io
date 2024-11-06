@@ -76,6 +76,15 @@ sections:
               * Embedded system programming and software design
               * Optimal control methods for aerospace applications
               * Group project work on reinforcement learning for legged robots and final year aerospace engineers
+        - title: Research Intern
+          company: Growbotics Ltd. 
+          company_url: 'https://www.growbotics.space/'
+          company_logo: growbotic.jpg
+          location: Didcot, UK
+          date_start: '2024-07-01'
+          date_end: '2023-10-10'
+          description: |2-
+              Worked as a research intern at a space start-up company. During my time there, I focused on the development and testing of embedded state estimation and control algorithms that would be used on future in-orbit missions for cubesats and larger satellites. 
         - title: Visiting Researcher
           company: Robotics Systems Lab (RSL), ETH Zurich 
           company_url: ''

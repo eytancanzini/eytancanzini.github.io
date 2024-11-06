@@ -37,7 +37,7 @@ interests:
 education:
   courses:
     - course: PhD in Systems & Control Engineering
-      institution: Department of Automatic Control & Systems Engineering, University of Sheffield
+      institution: School of Mechanical, Aerospace & Civil Engineering, University of Sheffield
       year: 2021-Present
     - course: MEng Aerospace Engineering w/ Year In Industry
       institution: Department of Aerospace Engineering, University of Sheffield
