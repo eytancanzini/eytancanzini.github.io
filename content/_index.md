@@ -79,7 +79,7 @@ sections:
         - title: Research Intern
           company: Growbotics Ltd. 
           company_url: 'https://www.growbotics.space/'
-          company_logo: growbotic.jpg
+          # company_logo: growbotic.jpg
           location: Didcot, UK
           date_start: '2024-07-01'
           date_end: '2023-10-10'
