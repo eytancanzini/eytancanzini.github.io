@@ -85,6 +85,15 @@ sections:
           date_end: '2023-10-10'
           description: |2-
               Worked as a research intern at a space start-up company. During my time there, I focused on the development and testing of embedded state estimation and control algorithms that would be used on future in-orbit missions for cubesats and larger satellites. 
+        - title: Research Scientist
+          company: Airbus Robotics R&T
+          company_url: ''
+          # company_logo: growbotic.jpg
+          location: Didcot, UK
+          date_start: '2021-01-01'
+          date_end: '2024-07-01'
+          description: |2-
+              As part of my PhD scholarship, I have worked directly with Airbus Robotics in the research and development of autonomous robotic systems for manufacturing purposes. During this time, I helped develop the multi-robot assembly rig and was part of the team working on the precise assembly of aerostructure components. 
         - title: Visiting Researcher
           company: Robotics Systems Lab (RSL), ETH Zurich 
           company_url: ''
