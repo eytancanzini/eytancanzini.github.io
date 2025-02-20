@@ -16,7 +16,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Control, Research Scientist in Robotics
+role: Research Associate in Systems & Control
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -31,12 +31,12 @@ interests:
   - Machine Learning
   - Control Theory 
   - Game Theory
-  - Multi-Agent Systems
+  - Differential Geometry
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Systems & Control Engineering
+    - course: PhD in Systems & Control
       institution: School of Mechanical, Aerospace & Civil Engineering, University of Sheffield
       year: 2021-Present
     - course: MEng Aerospace Engineering w/ Year In Industry
@@ -117,7 +117,7 @@ social:
 highlight_name: true
 ---
 
-I am a Research Associate in Systems & Control at the University of Sheffield in the School of Mehcanical, Aerospace & Civil Engineering where I am part of the Digital Manufacturing Group. I obtained a Masters of Engineering (1st Class Honours, 4.0 GPA) in Aerospace Engineering with a Year in Industry, where I worked as an Automation Engineer and Robotics deployment specialist. I am currently finishing my PhD in systems & control, examining the use of physics-informed methods for planning and contgorl. 
+I am a Research Associate in Systems & Control at the University of Sheffield in the School of Mehcanical, Aerospace & Civil Engineering where I am part of the Digital Manufacturing Group. I obtained a Masters of Engineering (1st Class Honours, 4.0 GPA) in Aerospace Engineering with a Year in Industry, where I worked as an Automation Engineer and Robotics deployment specialist. I am currently finishing my PhD in systems & control, examining the use of physics-informed methods for planning and control in robotics. 
 {style="text-align: justify;"}
 
 My current research is focused around using learning-based methods for planning and control, with applications in manufacturing systems for aerospace. I am interested in applications involving control theory, game theory and reinforcement learning to build autonomous agents that can make decisions in uncertain environments.
