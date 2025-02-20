@@ -62,15 +62,28 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Associate
+          company: School of Mechanical, Aerospace & Civil Engineering, University of Sheffield
+          company_url: 'https://www.sheffield.ac.uk/mac'
+          # company_logo: uni-logo.jpg
+          location: Sheffield, UK
+          date_start: '2024-10-15'
+          date_end: ''
+          description: |2-
+              Working as a research associate in systems and control. Part of the Digital Manufacturing Group (DMG), where I work at the intersection of several projects.
+
+              * Supervising multiple students in fields such as computer vision for manufacturing, dynamics estimation for in-orbit operations and large structure assembly
+              * Research looks at physics-informed planning and control within complex systems such as manufacturing processes and robotics
+              * Research interests include differential geometry, optimal transport, control-theoretic methods for robotics and applied physics & optimization 
         - title: Graduate Teaching Assistant
           company: Faculty of Engineering, University of Sheffield
           company_url: ''
           # company_logo: uni-logo.jpg
           location: Sheffield, UK
           date_start: '2021-08-05'
-          date_end: ''
+          date_end: '2024-10-15'
           description: |2-
-              Working as a GTA during PhD studies, towards acquiring Fellowship of the Higher Education Academy (FHEA) Modules include:
+              Working as a GTA during PhD studies, acquiring Fellowship of the Higher Education Academy (FHEA). Modules include:
 
               * First year MATLAB teaching and help with lab sessions
               * Embedded system programming and software design
@@ -138,6 +151,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - date_end: ''
+            date_start: '2025-01-31'
+            description: 'Joined as a Fellow of the Higher Education Academy'
+            icon: hea
+            organization: AdvanceHE (HEA)
+            organization_url: https://www.advance-he.ac.uk
+            title: Fellow of HEA (FHEA)
+            url: ''
         - date_end: ''
           date_start: '2021-08-15'
           description: 'Joined as a Member of the Institute for Electrical and Electronic Engineers'
@@ -279,12 +300,12 @@ sections:
       text: |-
         If you want to collaborate or have questions about my research, please feel free to reach out. You can send me an email or reach out to me on Twitter/X.
       # Contact (add or remove contact options as necessary)
-      email: ecanzini1@sheffield.ac.uk
+      email: e.a.canzini@sheffield.ac.uk
       address:
-        street: Amy Johnson Building, Portobello Street
+        street: Sir Frederick Mappin Building, Mappin Street
         city: Sheffield
         region: South Yorkshire
-        postcode: 'S1 4WD'
+        postcode: 'S1 3JD'
         country: United Kingdom
         country_code: UK
       # Choose a map provider in `params.yaml` to show a map from these coordinates

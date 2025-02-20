@@ -117,13 +117,13 @@ social:
 highlight_name: true
 ---
 
-I am a PhD candidate in Systems & Control Engineering at the University of Sheffield and a Research Scientist at Airbus Robotics. I obtained a Masters of Engineering (1st Class Honours, 4.0 GPA) in Aerospace Engineering with a Year in Industry, where I worked as an Automation Engineer and Robotics deployment specialist.
+I am a Research Associate in Systems & Control at the University of Sheffield in the School of Mehcanical, Aerospace & Civil Engineering where I am part of the Digital Manufacturing Group. I obtained a Masters of Engineering (1st Class Honours, 4.0 GPA) in Aerospace Engineering with a Year in Industry, where I worked as an Automation Engineer and Robotics deployment specialist. I am currently finishing my PhD in systems & control, examining the use of physics-informed methods for planning and contgorl. 
 {style="text-align: justify;"}
 
 My current research is focused around using learning-based methods for planning and control, with applications in manufacturing systems for aerospace. I am interested in applications involving control theory, game theory and reinforcement learning to build autonomous agents that can make decisions in uncertain environments.
 {style="text-align: justify;"}
 
-I am part of the [Intelligent Systems, Decisions and Control Group (ISDCG)](https://www.sheffield.ac.uk/acse/research/groups/isdc-group) and I am one of the co-leads of the [Robotics And Autonomous Manufacturing Systems Lab (RAMS Lab)](https://github.com/rams-lab-sheffield) where my research is focused on robust control for manipulation.
+I am one of the co-leads of the [Robotics And Autonomous Manufacturing Systems Lab (RAMS Lab)](https://github.com/rams-lab-sheffield) where my research is focused on robust control for manipulation.
 {style="text-align: justify;"}
 
 In my free time, my hobbies surround the outdoors (fishing, hiking, watersports etc.) and tinkering with electronics. I'll periodically upload photos and videos that I take on my various adventures, along with my ongoing projects.
