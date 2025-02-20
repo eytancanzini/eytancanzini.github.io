@@ -152,13 +152,13 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_end: ''
-            date_start: '2025-01-31'
-            description: 'Joined as a Fellow of the Higher Education Academy'
-            icon: hea
-            organization: AdvanceHE (HEA)
-            organization_url: https://www.advance-he.ac.uk
-            title: Fellow of HEA (FHEA)
-            url: ''
+          date_start: '2025-01-31'
+          description: 'Joined as a Fellow of the Higher Education Academy'
+          icon: hea
+          organization: AdvanceHE (HEA)
+          organization_url: https://www.advance-he.ac.uk
+          title: Fellow of HEA (FHEA)
+          url: ''
         - date_end: ''
           date_start: '2021-08-15'
           description: 'Joined as a Member of the Institute for Electrical and Electronic Engineers'
