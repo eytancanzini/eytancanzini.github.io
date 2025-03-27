@@ -123,7 +123,7 @@ I am a Research Associate in Systems & Control at the University of Sheffield in
 My current research is focused around using learning-based methods for planning and control, with applications in manufacturing systems for aerospace. I am interested in applications involving control theory, game theory and reinforcement learning to build autonomous agents that can make decisions in uncertain environments.
 {style="text-align: justify;"}
 
-I am one of the co-leads of the [Robotics And Autonomous Manufacturing Systems Lab (RAMS Lab)](https://github.com/rams-lab-sheffield) where my research is focused on robust control for manipulation.
+I am one of the co-leads of the [Robotics And Autonomous Manufacturing Systems Lab (RAMS Lab)](https://sites.google.com/sheffield.ac.uk/ramslab/) where my research is focused on robust control for manipulation and I lead teams on students on projects ranging from autonomous manipulation, robot control and computer vision. 
 {style="text-align: justify;"}
 
 In my free time, my hobbies surround the outdoors (fishing, hiking, watersports etc.) and tinkering with electronics. I'll periodically upload photos and videos that I take on my various adventures, along with my ongoing projects.
