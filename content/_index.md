@@ -252,9 +252,9 @@ sections:
   - block: markdown
     content:
       title: Gallery
-      subtitle: ''
+      subtitle: A collection of images across my various travels
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="images" >}}
     design:
       columns: '1'
   - block: collection
