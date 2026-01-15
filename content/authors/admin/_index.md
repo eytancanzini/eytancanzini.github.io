@@ -125,6 +125,3 @@ My current research is focused around using learning-based methods for planning 
 
 I am one of the co-leads of the [Robotics & Autonomous Manufacturing Systems Lab (RAMS Lab)](https://sites.google.com/sheffield.ac.uk/ramslab/) where my research is focused on robust control for manipulation and I lead teams on students on projects ranging from autonomous manipulation, robot control and computer vision. I co-lead the Applied & Theoretical Metamaterials Lab (ATM Lab). 
 {style="text-align: justify;"}
-
-In my free time, my hobbies surround the outdoors (fishing, hiking, watersports etc.) and tinkering with electronics. I'll periodically upload photos and videos that I take on my various adventures, along with my ongoing projects.
-{style="text-align: justify;"}
