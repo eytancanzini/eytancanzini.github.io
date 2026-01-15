@@ -70,7 +70,7 @@ sections:
           date_start: '2026-02-10'
           date_end: ''
           description: |2-
-              Working as a research & teaching associate in systems and control. Part of the Space Instrumentation Lab (SIL), where I work at the intersection of several projects.
+              Working as a research & teaching associate in systems and control. Part of the Space Instrumentation Lab (SIL).
 
               * Supervising multiple students in fields such as computer vision for manufacturing, dynamics estimation for in-orbit operations and large structure assembly
               * Research looks at physics-informed modelling and analysis of space plasma, theory and application of metamaterials, and robot control
