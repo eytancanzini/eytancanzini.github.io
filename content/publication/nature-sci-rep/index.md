@@ -52,7 +52,7 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image: []
+image: ''
   # caption: 'Overview of the multi-agent approach for determining optimal fixture plans using reinforcement learning.'
   # focal_point: ""
   # preview_only: false
