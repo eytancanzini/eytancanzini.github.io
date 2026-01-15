@@ -16,7 +16,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Associate in Systems & Control
+role: Research & Teaching Associate, Systems & Control
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -38,7 +38,7 @@ education:
   courses:
     - course: PhD in Systems & Control
       institution: School of Mechanical, Aerospace & Civil Engineering, University of Sheffield
-      year: 2021-Present
+      year: 2021-2025
     - course: MEng Aerospace Engineering w/ Year In Industry
       institution: Department of Aerospace Engineering, University of Sheffield
       year: 2016-2021
@@ -117,13 +117,13 @@ social:
 highlight_name: true
 ---
 
-I am a Research Associate in Systems & Control at the University of Sheffield in the School of Mehcanical, Aerospace & Civil Engineering where I am part of the Digital Manufacturing Group. I obtained a Masters of Engineering (1st Class Honours, 4.0 GPA) in Aerospace Engineering with a Year in Industry, where I worked as an Automation Engineer and Robotics deployment specialist. I am currently finishing my PhD in systems & control, examining the use of physics-informed methods for planning and control in robotics. 
+I am a Research & Teaching Associate in Systems & Control at the University of Sheffield in the School of Electrical & Electronic Engineering where I am part of the Space Instrumentation Lab. I obtained a Masters of Engineering (1st Class Honours, 4.0 GPA) in Aerospace Engineering with a Year in Industry, where I worked as an Automation Engineer and Robotics deployment specialist. I received my doctorate (PhD) in 2025, where I worked in partnership with Airbus to build autonomous systems for robotics. 
 {style="text-align: justify;"}
 
-My current research is focused around using learning-based methods for planning and control, with applications in manufacturing systems for aerospace. I am interested in applications involving control theory, game theory and reinforcement learning to build autonomous agents that can make decisions in uncertain environments.
+My current research is focused around using learning-based methods for planning and control, with applications in manufacturing, space systems and robotics. I am interested in applications involving control theory, game theory, physics and reinforcement learning to build autonomous agents that can make decisions in uncertain environments, whilst also being able to estimate the dynamics of a system accurately with distributed sensing.
 {style="text-align: justify;"}
 
-I am one of the co-leads of the [Robotics And Autonomous Manufacturing Systems Lab (RAMS Lab)](https://sites.google.com/sheffield.ac.uk/ramslab/) where my research is focused on robust control for manipulation and I lead teams on students on projects ranging from autonomous manipulation, robot control and computer vision. 
+I am one of the co-leads of the [Robotics & Autonomous Manufacturing Systems Lab (RAMS Lab)](https://sites.google.com/sheffield.ac.uk/ramslab/) where my research is focused on robust control for manipulation and I lead teams on students on projects ranging from autonomous manipulation, robot control and computer vision. I co-lead the Applied & Theoretical Metamaterials Lab (ATM Lab). 
 {style="text-align: justify;"}
 
 In my free time, my hobbies surround the outdoors (fishing, hiking, watersports etc.) and tinkering with electronics. I'll periodically upload photos and videos that I take on my various adventures, along with my ongoing projects.

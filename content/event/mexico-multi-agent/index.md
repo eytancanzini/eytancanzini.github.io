@@ -1,7 +1,7 @@
 ---
 title: Scaling Robotic Capability Using Multi-Agent Systems - Applications in Agriculture, Construction and Manufacturing
 
-event: Hugo Blox Builder Conference
+event: Innovation Conference
 event_url:
 
 location: Instituto Politécnico Nacional
@@ -13,7 +13,7 @@ address:
   country: Mexico
 
 summary: A top-level talk presented to graduate students about the use of multi-robot systems
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'Robotic functionality is growing across multiple fields in industry. However, single robot architectures '
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
