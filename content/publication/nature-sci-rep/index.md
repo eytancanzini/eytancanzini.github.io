@@ -1,5 +1,5 @@
 ---
-title: "Decision Making For Multi-Robot Fixture Planning Using Multi-Agent Reinforcement Learning"
+title: "Enhancing thin-film wafer inspection with a multi-sensor array and robot constraint maintenance"
 authors:
 - Néstor Sánchez-Arriaga
 - admin
