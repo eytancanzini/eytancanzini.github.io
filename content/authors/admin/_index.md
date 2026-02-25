@@ -123,5 +123,5 @@ I am a Research & Teaching Associate in Systems & Control at the University of S
 My current research is focused around using learning-based methods for planning and control, with applications in manufacturing, space systems and robotics. I am interested in applications involving control theory, game theory, physics and reinforcement learning to build autonomous agents that can make decisions in uncertain environments, whilst also being able to estimate the dynamics of a system accurately with distributed sensing.
 {style="text-align: justify;"}
 
-I am one of the co-leads of the [Robotics & Autonomous Manufacturing Systems Lab (RAMS Lab)](https://sites.google.com/sheffield.ac.uk/ramslab/) where my research is focused on robust control for manipulation and I lead teams on students on projects ranging from autonomous manipulation, robot control and computer vision. I co-lead the Applied & Theoretical Metamaterials Lab (ATM Lab). 
+I am the Deputy Director of the [Robotics & Autonomous Manufacturing Systems Lab (RAMS Lab)](https://sites.google.com/sheffield.ac.uk/ramslab/) where my research is focused on robust control for manipulation and I lead teams on students on projects ranging from autonomous manipulation, robot control and computer vision. I co-lead the Applied & Theoretical Metamaterials Lab (ATM Lab). 
 {style="text-align: justify;"}
