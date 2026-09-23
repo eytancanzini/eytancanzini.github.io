@@ -16,12 +16,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research & Teaching Associate, Systems & Control
+role: Lecturer (Asst. Prof.), Dynamics & Control
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Sheffield
-    url: https://www.sheffield.ac.uk
+  - name: University of the West of England
+    url: https://people.uwe.ac.uk/Person/EytanCanzini
 
 # Short bio (displayed in user profile at end of posts)
 bio: Space Systems, Machine Learning, Control & Game Theory
@@ -117,11 +117,11 @@ social:
 highlight_name: true
 ---
 
-I am a Research & Teaching Associate in Systems & Control at the University of Sheffield in the School of Electrical & Electronic Engineering where I am part of the Space Instrumentation Lab. I obtained a Masters of Engineering (1st Class Honours, 4.0 GPA) in Aerospace Engineering with a Year in Industry, where I worked as an Automation Engineer and Robotics deployment specialist. I received my doctorate (PhD) in 2025, where I worked in partnership with Airbus to build autonomous systems for robotics. 
+I am a Lecturer (Assistant Professor) in Dynamics & Control at the University of the West of England in the School ofEngineering where I am part of the Energy Technologies Group. I obtained a Masters of Engineering (1st Class Honours, 4.0 GPA) in Aerospace Engineering with a Year in Industry, where I worked as an Automation Engineer and Robotics deployment specialist. I received my doctorate (PhD) in 2025, where I worked in partnership with Airbus to build autonomous systems for robotics. 
 {style="text-align: justify;"}
 
 My current research is focused around using learning-based methods for planning and control, with applications in manufacturing, space systems and robotics. I am interested in applications involving control theory, game theory, physics and reinforcement learning to build autonomous agents that can make decisions in uncertain environments, whilst also being able to estimate the dynamics of a system accurately with distributed sensing.
 {style="text-align: justify;"}
 
-I am the Deputy Director of the [Robotics & Autonomous Manufacturing Systems Lab (RAMS Lab)](https://sites.google.com/sheffield.ac.uk/ramslab/) where my research is focused on robust control for manipulation and I lead teams on students on projects ranging from autonomous manipulation, robot control and computer vision. I co-lead the Applied & Theoretical Metamaterials Lab (ATM Lab). 
+I am a Visiting Researcher at the University of Sheffield, where I am involved in the [Robotics & Autonomous Manufacturing Systems Lab (RAMS Lab)](https://sites.google.com/sheffield.ac.uk/ramslab/) and the [Applied & Theoretical Metamaterials Lab (ATM Lab)](https://sites.google.com/sheffield.ac.uk/atm-lab?pli=1&authuser=0). 
 {style="text-align: justify;"}
