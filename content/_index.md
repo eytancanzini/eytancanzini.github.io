@@ -324,18 +324,18 @@ sections:
       text: |-
         If you want to collaborate or have questions about my research, please feel free to reach out. You can send me an email or reach out to me on Twitter/X.
       # Contact (add or remove contact options as necessary)
-      email: e.a.canzini@sheffield.ac.uk
+      email: eytan.canzini@uwe.ac.uk
       address:
-        street: Sir Frederick Mappin Building, Mappin Street
-        city: Sheffield
-        region: South Yorkshire
-        postcode: 'S1 3JD'
+        street: UWE Bristol School of Engineering 
+        city: Bristol
+        region: South Gloucestershire
+        postcode: 'BS16 1QY'
         country: United Kingdom
         country_code: UK
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '53.381576'
-        longitude: '-1.4780507'  
+        latitude: '51.500406'
+        longitude: '-2.550193'  
       contact_links:
         - icon: twitter
           icon_pack: fab
