@@ -70,7 +70,7 @@ sections:
           date_start: '2026-09-23'
           date_end: ''
           description: |2-
-              I am currently a lectuer in Dynamics & Control at UWE Bristol, where I am part of the Energy Technologies group in the School of Engineering. 
+              I am currently a Lecturer in Dynamics & Control at UWE Bristol, where I am part of the Energy Technologies group in the School of Engineering. 
 
               * Supervising multiple students in fields such as computer vision for manufacturing, dynamics estimation for in-orbit operations and large structure assembly
               * Research looks at physics-informed modelling and analysis of space plasma, theory and application of metamaterials, and robot control
